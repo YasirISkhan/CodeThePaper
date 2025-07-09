@@ -60,3 +60,7 @@ Weights are initialized using `np.random.randn()` and biases with `np.zeros()`.
 **Test Accuracy**: 0.9818
 
 
+![Plot](https://github.com/YasirISkhan/CodeThePaper/blob/main/Backpropagation/img/Loss%20over%20epochs.png)
+
+
+
